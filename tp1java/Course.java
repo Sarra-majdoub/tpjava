@@ -5,7 +5,7 @@ public class Course {
     public Course(int courseId,String courseName, Instructor instructor){
 
         this.courseId=courseId;
-        this.courseName=courseName;
+        this.courseName= courseName;
         this.instructor=instructor;
     }
     public int getCourseId(){
