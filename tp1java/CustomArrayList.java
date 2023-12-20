@@ -1,7 +1,6 @@
 public class CustomArrayList {
     protected int[] arraylist;
     protected int size;
-
     public CustomArrayList() {
         this(10);
     }
